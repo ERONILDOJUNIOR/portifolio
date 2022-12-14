@@ -26,7 +26,7 @@
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   
   $contact->smtp = array(
-    'host' => 'esmtp-mail.outlook.com',
+    'host' => 'smtp.office365.com',
     'username' => 'eronjr17.ej@outlook.com',
     'password' => 'Eron@123',
     'port' => '587'
